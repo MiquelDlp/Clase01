@@ -8,7 +8,7 @@ using namespace std;
 using namespace System;
 
 int main()
-{
+{//ejemplo
 	int a, i=0;
 	cout << "Ingrese su numero: ";
 	cin >> a;
